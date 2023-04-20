@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
 body{
 	background: #fafafa;
 	height: 122vh;
@@ -25,13 +25,9 @@ body{
 .right{width: 580px; float: left;}
 .left-1{position: relative;}
 .p1{padding: 10px 0px; font-size: 11px;}
-.icons1{
-	font-size: 16px!important;
-	padding-right: 10px!important;
-	vertical-align: sub;
-}
+
 .skill{
-	margin-left: 20px;
+	margin-left: 24px;
 	font-size: 12px;
 	font-weight: normal;
 }
